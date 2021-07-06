@@ -1,0 +1,25 @@
+.block-social {
+    text-align: center;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+#block-social-label {
+    color: #212121;
+}
+
+.block-social ul {
+    display: flex;
+    margin: auto;
+    width: 15%;
+}
+
+.block-social ul li {
+    height: 2.5rem;
+    width: 2.5rem;
+    background-color: #f1f1f1;
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin-right: 1.5rem;
+    cursor: pointer;
+}

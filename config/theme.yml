@@ -1,0 +1,6 @@
+parent: classic
+name: Zaptaz
+display_name: Zaptaz theme of classic's theme
+version: 1.0.0
+assets:
+  use_parent_assets: false

@@ -1,0 +1,9 @@
+#custom-text {
+    background: #fff;
+    border-radius: 2px;
+    margin-bottom: 1.5rem;
+    padding: 3.125rem;
+    text-align: center;
+    overflow: hidden;
+    box-shadow: 2px 2px 11px 0 rgba(0,0,0,.3);
+}
